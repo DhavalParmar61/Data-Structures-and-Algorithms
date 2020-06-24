@@ -1,0 +1,1 @@
+I have implemented code for various data structure like linked list, queue, stack, map and Hetrogeneous vector to make it partialy and fully persistence. I have implemented simulation model of birthdeath chain using fully persistent doubly linked list.
